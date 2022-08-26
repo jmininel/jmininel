@@ -6,7 +6,7 @@
 
 <br><br>
 
-- 🧶 Web Developer JR REACT
+- 🧶 Web Developer JR || REACT
 - 🔥 Languages REACT - JAVASCRIPT 
 - ⚡ Fun fact: I Luv Technology, Dogs, Sea, Music and Nature
 
