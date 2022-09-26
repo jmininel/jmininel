@@ -3,7 +3,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Juliana Mininel</h1>
 
 
-<img src="https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910" height="500px">
 
 
 
