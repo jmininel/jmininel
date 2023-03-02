@@ -11,10 +11,11 @@
 
 <br><br>
 
+<div display="flex" justify content="center">
 - 🧶 Web Developer JR || REACT
 - 🔥 Languages REACT - JAVASCRIPT 
 - ⚡ Fun fact: I Luv Technology, Dogs, Sea, Music and Nature
-
+</div>
 
 <br><br>
 
