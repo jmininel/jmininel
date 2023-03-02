@@ -18,12 +18,12 @@
 
 
 <br><br>
-<div display="flex" justify content="center">
+
  <div>![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; </div>
  <div>![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; </div>
  <div>![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;  </div>
  <div>![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;  </div>
-</div>
+
 
 <h1 align="center"> <img src="https://c.tenor.com/8YoUiU-FyJoAAAAM/%E5%BD%A9%E8%99%B9%E8%B2%93-rainbow.gif" height="100px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="100px">
