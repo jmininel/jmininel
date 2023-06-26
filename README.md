@@ -1,24 +1,22 @@
 
 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Juliana Mininel</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Juliana Mininel</h1>
 
 
 
  
-
-
-
-<br><br>
-
-
-- 🧶 Web Developer JR || REACT
-- 🔥 Languages REACT - JAVASCRIPT 
-- ⚡ LETS CODE ....
-
-
-<br><br>
 <div align="center">
+
+
+<br><br>
+<div>
+<h3> 🔥 Web Developer JR - REACT </h3>
+ <h3> ⚡ LETS CODE .... </h3>
+</div>
+
+<br><br>
+
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -28,7 +26,8 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-![dog-with-computer](https://github.com/jmininel/jmininel/assets/57683000/31cdf4da-0bf1-4522-afab-084826091dec)
+<img src="https://github.com/jmininel/jmininel/assets/57683000/31cdf4da-0bf1-4522-afab-084826091dec" width="300px">
+
 </div>
 
 
