@@ -30,6 +30,4 @@
 ![dog-with-computer](https://github.com/jmininel/jmininel/assets/57683000/31cdf4da-0bf1-4522-afab-084826091dec)
 
 <br><br>
-<h1 align="center"> <img src="https://c.tenor.com/8YoUiU-FyJoAAAAM/%E5%BD%A9%E8%99%B9%E8%B2%93-rainbow.gif" height="100px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="100px">
-</h1>
+
