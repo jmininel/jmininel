@@ -1,7 +1,11 @@
 
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Juliana Mininel</h1>
+<h1 align="center">
+  <img src="https://newscrewdriver.com/wp-content/uploads/2018/10/poptartcat320240.gif" height="100px">
+  <br>
+  Juliana Mininel Frontend React/Next
+</h1>
 
 
 
@@ -11,8 +15,9 @@
 
 <br><br>
 <div>
-<h3> 🔥 Web Developer JR - REACT </h3>
- <h3> ⚡ LETS CODE .... </h3>
+<h3> 🔥FRONTEND JR REACT | NEXT  </h3>
+ <h3> ⚡ Stack</h3>
+
 </div>
 
 <br><br>
