@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">Desenvolvedora Frontend | React e Next.js</h3>
+<h3 align="center">Desenvolvedora Frontend JR | React e Next.js</h3>
 
 <p align="center">
   Sou uma desenvolvedora frontend apaixonada por criar interfaces de usuário intuitivas e responsivas. Minha especialidade é transformar ideias em experiências digitais elegantes e performáticas. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos inovadores.
