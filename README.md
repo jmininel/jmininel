@@ -1,38 +1,32 @@
-
-
-
 <h1 align="center">
-  <img src="https://newscrewdriver.com/wp-content/uploads/2018/10/poptartcat320240.gif" height="100px">
-  <br>
-  Juliana Mininel Frontend React/Next
+  Olá, sou a Juliana Mininel!
+  <img src="https://newscrewdriver.com/wp-content/uploads/2018/10/poptartcat320240.gif" width="80">
 </h1>
 
 
 
+<h3 align="center">Desenvolvedora Frontend | React e Next.js</h3>
+
+<p align="center">
+  Sou uma desenvolvedora frontend apaixonada por criar interfaces de usuário intuitivas e responsivas. Minha especialidade é transformar ideias em experiências digitais elegantes e performáticas. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos inovadores.
+</p>
+
+---
+
+### 💻 Stack de desenvolvimento
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind,sql,figma,vscode,git,github" />
+</p>
+
+---
+
+### 🤝 Conecte-se comigo
+
+<p align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/juliana-mininel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
  
-<div align="center">
-
-
-<br><br>
-<div>
-<h3> 🔥FRONTEND JR REACT | NEXT  </h3>
- <h3> ⚡ Stack</h3>
-
-</div>
-
-<br><br>
-
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
- 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
-<img src="https://github.com/jmininel/jmininel/assets/57683000/31cdf4da-0bf1-4522-afab-084826091dec" width="300px">
-
-</div>
-
-
+</p>
